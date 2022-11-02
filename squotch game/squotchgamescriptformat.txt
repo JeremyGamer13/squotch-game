@@ -1,0 +1,52 @@
+// Press S, C, and 1 to hide this menu.
+// This is where scripts can be made.
+// The script menu uses simple scratch
+// blocks converted into text.
+onBeginGameLoop (run script as ):{
+}
+onBeginKorGameLoop (run script as ):{
+}
+onRedGreen (run script as ):{
+}
+onKorRedGreen (run script as ):{
+}
+onKidRedGreen (run script as ):{
+}
+onKidKorRedGreen (run script as ):{
+}
+onRedLight (run script as ):{
+}
+onKorRedLight (run script as ):{
+}
+onGreenLight (run script as ):{
+}
+onKorGreenLight (run script as ):{
+}
+onRedGreenTimerEnd (run script as ):{
+}
+onKorRedGreenTimerEnd (run script as ):{
+}
+onHoneycomb (run script as ):{
+}
+onHoneycombButtonsBlinked (run script as ):{
+}
+onHoneycombFinishShape (run script as ):{
+}
+onHoneycombTimerEnd (run script as ):{
+}
+onKorHoneycomb (run script as ):{
+}
+onKorHoneycombButtonsBlinked (run script as ):{
+}
+onKorHoneycombFinishShape (run script as ):{
+}
+onKorHoneycombTimerEnd (run script as ):{
+}
+onDeath (run script as ):{
+}
+onKorDeath (run script as ):{
+}
+onDeathKid (run script as ):{
+}
+onKorDeathKid (run script as ):{
+}

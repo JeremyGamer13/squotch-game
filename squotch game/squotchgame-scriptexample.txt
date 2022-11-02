@@ -1,0 +1,81 @@
+// Press S, C, and 1 to hide this menu.
+// This is where scripts can be made.
+// The script menu uses simple scratch
+// blocks converted into text.
+onBeginGameLoop (run script as logo):{
+stop other scripts in sprite
+point in random direction
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+go to random position
+wait (below) seconds
+0.01
+}
+onBeginKorGameLoop:{
+}
+onRedGreen:{
+}
+onKorRedGreen:{
+}
+onKidRedGreen:{
+}
+onKidKorRedGreen:{
+}
+onRedLight:{
+}
+onKorRedLight:{
+}
+onGreenLight:{
+}
+onKorGreenLight:{
+}
+onRedGreenTimerEnd:{
+}
+onKorRedGreenTimerEnd:{
+}
+onHoneycomb:{
+}
+onHoneycombButtonsBlinked:{
+}
+onHoneycombFinishShape:{
+}
+onHoneycombTimerEnd:{
+}
+onKorHoneycomb:{
+}
+onKorHoneycombButtonsBlinked:{
+}
+onKorHoneycombFinishShape:{
+}
+onKorHoneycombTimerEnd:{
+}
+onDeath:{
+}
+onKorDeath:{
+}
+onDeathKid:{
+}
+onKorDeathKid:{
+}
